@@ -1,3 +1,10 @@
+# AI Resume Analyzer 🤖
+
+AI-powered resume analyzer with ATS scoring and feedback.
+
+## 🚀 Live Demo
+👉 [Click here to view live](https://resume-analyzer-ai-tool.netlify.app)
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
